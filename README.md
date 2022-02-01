@@ -12,7 +12,7 @@ In this jupyter notebook "sp500Calc.ipynb", all code is included.
 - The eighth code trunk, based on summary statistics from code trunk four, adds in the number of month for consecutive up period and down period. Result in summary_for_cons2.csv. 
 - The nineth code trunk based on summary statistics from code trunk seven, adds in the number of positive return months and negative return months conditional on previous month's situation. Result in summary_for_cons3.csv.
 #### For index:
-- Code trunk 5 has the same functionalities as that for compositions. Annual return rate for SP500 is calculated and saved in index_ann.csv. Summary statistics are saved in summary_for_ix.csv.
+- Code trunk 6 has the same functionalities as that for compositions. Annual return rate for SP500 is calculated and saved in index_ann.csv. Summary statistics are saved in summary_for_ix.csv.
 ## Data Source
 - Data for composites: collected from WRDS API, monthly from 1926 to 2020. sp500_cons.csv
 - Data for index: downloaded from WRDS, monthly from 1926 to 2020. index_sp500.csv
